@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\QLBH\QLBH.BLL\bin\Debug\netcoreapp3.1\QLBH.BLL.deps.json
+C:\Users\DELL\source\repos\QLBH\QLBH.BLL\bin\Debug\netcoreapp3.1\QLBH.BLL.dll
+C:\Users\DELL\source\repos\QLBH\QLBH.BLL\bin\Debug\netcoreapp3.1\QLBH.BLL.pdb
+C:\Users\DELL\source\repos\QLBH\QLBH.BLL\obj\Debug\netcoreapp3.1\QLBH.BLL.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\QLBH\QLBH.BLL\obj\Debug\netcoreapp3.1\QLBH.BLL.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\QLBH\QLBH.BLL\obj\Debug\netcoreapp3.1\QLBH.BLL.AssemblyInfo.cs
+C:\Users\DELL\source\repos\QLBH\QLBH.BLL\obj\Debug\netcoreapp3.1\QLBH.BLL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\QLBH\QLBH.BLL\obj\Debug\netcoreapp3.1\QLBH.BLL.dll
+C:\Users\DELL\source\repos\QLBH\QLBH.BLL\obj\Debug\netcoreapp3.1\QLBH.BLL.pdb
+C:\Users\DELL\source\repos\QLBH\QLBH.BLL\bin\Debug\netcoreapp3.1\QLBH.BLL.runtimeconfig.json
+C:\Users\DELL\source\repos\QLBH\QLBH.BLL\bin\Debug\netcoreapp3.1\QLBH.BLL.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\QLBH\QLBH.BLL\obj\Debug\netcoreapp3.1\QLBH.BLL.genruntimeconfig.cache
+C:\Users\DELL\source\repos\QLBH\QLBH.BLL\bin\Debug\netcoreapp3.1\QLBH.Common.dll
+C:\Users\DELL\source\repos\QLBH\QLBH.BLL\bin\Debug\netcoreapp3.1\QLBH.DAL.dll
+C:\Users\DELL\source\repos\QLBH\QLBH.BLL\bin\Debug\netcoreapp3.1\QLBH.Common.pdb
+C:\Users\DELL\source\repos\QLBH\QLBH.BLL\bin\Debug\netcoreapp3.1\QLBH.DAL.pdb
+C:\Users\DELL\source\repos\QLBH\QLBH.BLL\obj\Debug\netcoreapp3.1\QLBH.BLL.csproj.CopyComplete

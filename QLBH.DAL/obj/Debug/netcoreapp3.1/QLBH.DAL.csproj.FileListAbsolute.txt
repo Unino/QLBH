@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\bin\Debug\netcoreapp3.1\QLBH.DAL.deps.json
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\bin\Debug\netcoreapp3.1\QLBH.DAL.dll
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\bin\Debug\netcoreapp3.1\QLBH.DAL.pdb
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\obj\Debug\netcoreapp3.1\QLBH.DAL.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\obj\Debug\netcoreapp3.1\QLBH.DAL.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\obj\Debug\netcoreapp3.1\QLBH.DAL.AssemblyInfo.cs
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\obj\Debug\netcoreapp3.1\QLBH.DAL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\obj\Debug\netcoreapp3.1\QLBH.DAL.dll
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\obj\Debug\netcoreapp3.1\QLBH.DAL.pdb
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\bin\Debug\netcoreapp3.1\QLBH.DAL.runtimeconfig.json
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\bin\Debug\netcoreapp3.1\QLBH.DAL.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\obj\Debug\netcoreapp3.1\QLBH.DAL.genruntimeconfig.cache
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\bin\Debug\netcoreapp3.1\QLBH.Common.dll
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\bin\Debug\netcoreapp3.1\QLBH.Common.pdb
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\obj\Debug\netcoreapp3.1\QLBH.DAL.csproj.CopyComplete

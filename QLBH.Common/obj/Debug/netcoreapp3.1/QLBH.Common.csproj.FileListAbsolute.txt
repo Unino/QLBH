@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\QLBH\QLBH.Common\bin\Debug\netcoreapp3.1\QLBH.Common.deps.json
+C:\Users\DELL\source\repos\QLBH\QLBH.Common\bin\Debug\netcoreapp3.1\QLBH.Common.dll
+C:\Users\DELL\source\repos\QLBH\QLBH.Common\bin\Debug\netcoreapp3.1\QLBH.Common.pdb
+C:\Users\DELL\source\repos\QLBH\QLBH.Common\obj\Debug\netcoreapp3.1\QLBH.Common.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\QLBH\QLBH.Common\obj\Debug\netcoreapp3.1\QLBH.Common.AssemblyInfo.cs
+C:\Users\DELL\source\repos\QLBH\QLBH.Common\obj\Debug\netcoreapp3.1\QLBH.Common.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\QLBH\QLBH.Common\obj\Debug\netcoreapp3.1\QLBH.Common.dll
+C:\Users\DELL\source\repos\QLBH\QLBH.Common\obj\Debug\netcoreapp3.1\QLBH.Common.pdb
+C:\Users\DELL\source\repos\QLBH\QLBH.Common\bin\Debug\netcoreapp3.1\QLBH.Common.runtimeconfig.json
+C:\Users\DELL\source\repos\QLBH\QLBH.Common\bin\Debug\netcoreapp3.1\QLBH.Common.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\QLBH\QLBH.Common\obj\Debug\netcoreapp3.1\QLBH.Common.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\QLBH\QLBH.Common\obj\Debug\netcoreapp3.1\QLBH.Common.genruntimeconfig.cache

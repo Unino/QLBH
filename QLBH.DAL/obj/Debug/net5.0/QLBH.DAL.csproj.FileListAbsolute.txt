@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\bin\Debug\net5.0\QLBH.DAL.deps.json
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\bin\Debug\net5.0\QLBH.DAL.dll
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\bin\Debug\net5.0\ref\QLBH.DAL.dll
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\bin\Debug\net5.0\QLBH.DAL.pdb
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\obj\Debug\net5.0\QLBH.DAL.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\obj\Debug\net5.0\QLBH.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\obj\Debug\net5.0\QLBH.DAL.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\obj\Debug\net5.0\QLBH.DAL.AssemblyInfo.cs
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\obj\Debug\net5.0\QLBH.DAL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\obj\Debug\net5.0\QLBH.DAL.dll
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\obj\Debug\net5.0\ref\QLBH.DAL.dll
+C:\Users\DELL\source\repos\QLBH\QLBH.DAL\obj\Debug\net5.0\QLBH.DAL.pdb
